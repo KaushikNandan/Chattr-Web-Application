@@ -1,2 +1,4 @@
 # Chattr-Web-Application
-A chat web application where multiple users can join and chat with each other like happens in a simple forum
+npm init to get the required packages installed using package.json
+start the server using node server
+open localhost and start chatting
